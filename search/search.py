@@ -89,13 +89,13 @@ def depthFirstSearch(problem):
     print "Start's successors:", problem.getSuccessors(problem.getStartState())
     """
     "*** YOUR CODE HERE ***"
-    checked = set()
+    checkedNode = set()
     stack = util.Stack()
     stack.push((problem.getStartState(), []))
     while not stack.isEmpty():
         state, action = stack.pop()
-        if state not in checked:
-            checked.add(state)
+        if state not in checkedNode:
+            checkedNode.add(state)
             if problem.isGoalState(state):
                 return action
             else:
