@@ -1,4 +1,7 @@
-# **PACMAN SEARCH**
+# **PACMAN SEARCH**0
+## Kết quả chạy autograder.py
+<img src="./img-code/autograder.png" width="400" title="DFS on tinyMaze"/>
+
 ## **Mô tả cách làm**
 ### **Question 1** : Finding a Fixed Food Dot using Depth First Search 
  <img src="./img-code/dfs.png" width="400" title="DFS on tinyMaze"/>

@@ -1,6 +1,10 @@
 # INT3401-8
 Trí tuệ nhân tạo - Bài tập
 # **PACMAN SEARCH**
+
+## Kết quả chạy autograder.py
+<img src="./search/img-code/autograder.png" width="400" title="DFS on tinyMaze"/>
+
 ## **Mô tả cách làm**
 ### **Question 1** : Finding a Fixed Food Dot using Depth First Search 
  <img src="./search/img-code/dfs.png" width="400" title="DFS on tinyMaze"/>
