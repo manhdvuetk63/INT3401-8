@@ -3,7 +3,7 @@ Trí tuệ nhân tạo - Bài tập
 # **PACMAN SEARCH**
 ## **Mô tả cách làm**
 ### **Question 1** : Finding a Fixed Food Dot using Depth First Search 
- <img src="./img-code/dfs.png" width="400" title="DFS on tinyMaze"/>
+ <img src="./search/img-code/dfs.png" width="400" title="DFS on tinyMaze"/>
 
  <p>Sử dụng giải thuật tìm kiếm theo chiều sâu(DFS): <p>
 
@@ -17,19 +17,19 @@ Trí tuệ nhân tạo - Bài tập
 
 ### **Question 2** : Breadth First Search (Tìm kiếm theo chiều rộng )
 
- <img src="./img-code/bfs.png" width="400" title="DFS on tinyMaze"/>
+ <img src="./search/img-code/bfs.png" width="400" title="DFS on tinyMaze"/>
 
 <p> Giống với Question 1 nhưng ta dùng Queue để lưu trữ duyệt Node</p>
 
 
 ### **Question 3** : Varying the Cost Function 
- <img src="./img-code/ucs.png" width="500" title="DFS on tinyMaze"/>
+ <img src="./search/img-code/ucs.png" width="500" title="DFS on tinyMaze"/>
 
 ### **Question 4** :  A* search 
- <img src="./img-code/as.png" width="500" title="DFS on tinyMaze"/>
+ <img src="./search/img-code/as.png" width="500" title="DFS on tinyMaze"/>
 
 ### **Question 5** : Finding All the Corners
- <img src="./img-code/cp.png" width="500" title="DFS on tinyMaze"/>
+ <img src="./search/img-code/cp.png" width="500" title="DFS on tinyMaze"/>
  
 ### **Question 6** : Corners Problem: Heuristic
 ### **Question 7** : Eating All The Dots
